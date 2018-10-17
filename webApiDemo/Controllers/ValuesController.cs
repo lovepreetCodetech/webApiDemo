@@ -36,6 +36,7 @@ namespace webApiDemo.Controllers
 		// DELETE api/values/5
 		public void Delete(int id)
 		{
+			return view();
 		}
 		//hii everyone//
 	}
